@@ -1,0 +1,8 @@
+How to jbe up to date
+
+git checkout master
+git pull upstream master
+
+git checkout update_script
+
+git rebase master
